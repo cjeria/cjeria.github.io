@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/cjeria
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://cjeria.github.io
+  * I am cjeria (https://keybase.io/cjeria) on keybase.
+  * I have a public key ASB63l7lDCb9XUyPX39t6LktAdmWcm6_s4_3gp5c5E9wHwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01207ade5ee50c26fd5d4c8f5f7f6de8b92d01d996726ebfb38ff7829e5ce44f701f0a",
+      "host": "keybase.io",
+      "kid": "01207ade5ee50c26fd5d4c8f5f7f6de8b92d01d996726ebfb38ff7829e5ce44f701f0a",
+      "uid": "af255970990a5f22efa9fa82715a4919",
+      "username": "cjeria"
+    },
+    "merkle_root": {
+      "ctime": 1522439547,
+      "hash": "abf4e56b6385e378b5d66d95c5fdd6e43ddec5401a1583c4d5a6260060dafa0cb5c2944ebbe9f6ad24853b1908c520fbc9e0dcb9a7bed0374d00074187f86843",
+      "hash_meta": "e30746ae695b9266f32a9c881f7945ba1c6088b9e618da3a00a55fb00d439de0",
+      "seqno": 2313788
+    },
+    "service": {
+      "hostname": "cjeria.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.45"
+  },
+  "ctime": 1522439578,
+  "expire_in": 504576000,
+  "prev": "f724dbc34a6f4999e08795ce93faa312e79ff40cb23e257fff4da63cc4ad09b8",
+  "seqno": 13,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEget5e5Qwm/V1Mj19/bei5LQHZlnJuv7OP94KeXORPcB8Kp3BheWxvYWTFA0d7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwN2FkZTVlZTUwYzI2ZmQ1ZDRjOGY1ZjdmNmRlOGI5MmQwMWQ5OTY3MjZlYmZiMzhmZjc4MjllNWNlNDRmNzAxZjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwN2FkZTVlZTUwYzI2ZmQ1ZDRjOGY1ZjdmNmRlOGI5MmQwMWQ5OTY3MjZlYmZiMzhmZjc4MjllNWNlNDRmNzAxZjBhIiwidWlkIjoiYWYyNTU5NzA5OTBhNWYyMmVmYTlmYTgyNzE1YTQ5MTkiLCJ1c2VybmFtZSI6ImNqZXJpYSJ9LCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTUyMjQzOTU0NywiaGFzaCI6ImFiZjRlNTZiNjM4NWUzNzhiNWQ2NmQ5NWM1ZmRkNmU0M2RkZWM1NDAxYTE1ODNjNGQ1YTYyNjAwNjBkYWZhMGNiNWMyOTQ0ZWJiZTlmNmFkMjQ4NTNiMTkwOGM1MjBmYmM5ZTBkY2I5YTdiZWQwMzc0ZDAwMDc0MTg3Zjg2ODQzIiwiaGFzaF9tZXRhIjoiZTMwNzQ2YWU2OTViOTI2NmYzMmE5Yzg4MWY3OTQ1YmExYzYwODhiOWU2MThkYTNhMDBhNTVmYjAwZDQzOWRlMCIsInNlcW5vIjoyMzEzNzg4fSwic2VydmljZSI6eyJob3N0bmFtZSI6ImNqZXJpYS5naXRodWIuaW8iLCJwcm90b2NvbCI6Imh0dHBzOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC40NSJ9LCJjdGltZSI6MTUyMjQzOTU3OCwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsInByZXYiOiJmNzI0ZGJjMzRhNmY0OTk5ZTA4Nzk1Y2U5M2ZhYTMxMmU3OWZmNDBjYjIzZTI1N2ZmZjRkYTYzY2M0YWQwOWI4Iiwic2Vxbm8iOjEzLCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQKGBEYWZYU2p/L+XNlZ8S0hIDuJNvBNHoincHC3aJDFQZ1yiJy9/p4fGT8QTCjgPXnTCgAFDxkejy9TJcxe6cwWoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCAPKIbYD+Jw1MFif28FXKobxm9qNO91zTpWo4w7SP2gQ6N0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/cjeria
+
+==================================================================
